@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libinmv
 - 👀 I’m interested in Python, Java, C, C++
-- 💞️ I’m currently learning Android App Development and Web Development
+- 💞️ I’m currently learning Android App Development and Full Stack Web Development
 
 
 
