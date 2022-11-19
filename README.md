@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libinmv
-- 👀 I’m interested in Python, Java, C, C++
-- 💞️ I’m currently learning Android App Development and Full Stack Web Development
+- 👀 I’m interested in Python, Java, C, C++, Rust
+- 💞️ I’m currently learning Python Django
 
 [![@libinmv's Holopin board](https://holopin.me/libinmv)](https://holopin.io/@libinmv)
 
