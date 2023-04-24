@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libinmv
 - 👀 I’m interested in Python, Java, C, C++, Rust
-- 💞️ I’m currently learning Python Django
+- 💞️ Working as a Django Backend Developer at [entri.app](https://entri.app)
 
 [![@libinmv's Holopin board](https://holopin.me/libinmv)](https://holopin.io/@libinmv)
 
